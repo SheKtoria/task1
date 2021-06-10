@@ -1,0 +1,17 @@
+{
+  "name": "dev/src",
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "test@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
